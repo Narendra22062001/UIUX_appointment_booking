@@ -1,0 +1,42 @@
+ Design Rationale
+The design of the doctor's appointment booking system is structured to provide users with a seamless experience,
+focusing on the essential functionalities: Home, Manage Appointments, Booking, Profile, Edit/Reschedule, and Cancel.
+
+ 1. Home Screen:
+   - Purpose: Acts as the main entry point, offering quick access to search for doctors and view upcoming appointments.
+   - Design Choices: A clean layout with a prominent search bar allows users to find doctors by specialty, location, and availability quickly.
+
+ 2. Manage Appointments:
+   - Purpose: Enables users to view all upcoming appointments in one place.
+   - Design Choices: Appointments are displayed in a list format, with clear information on the doctor, date, and time, allowing users to manage their schedule efficiently.
+
+ 3. Booking Process:
+   - Purpose: Facilitates the selection and confirmation of an appointment with a chosen doctor.
+   - Design Choices: Users can easily select an available time slot from a calendar view after choosing a doctor, streamlining the booking process.
+
+ 4. Doctor Profile:
+   - Purpose: Provides detailed information about the doctor to help users make informed decisions.
+   - Design Choices: The profile includes the doctor’s qualifications, specialties, and ratings, all displayed in a clear and organized manner.
+
+ 5. Edit/Reschedule:
+   - Purpose: Allows users to modify the date or time of an existing appointment.
+   - Design Choices: Accessible directly from the Manage Appointments screen, users can quickly reschedule with minimal steps.
+
+ 6. Cancel Appointment:
+   - Purpose: Enables users to cancel an appointment if necessary.
+   - Design Choices: A visible delete icon next to each appointment allows for easy cancellation, with a confirmation step to prevent mistakes.
+
+ 7. Time and Date Selection:
+   - Purpose: Ensures users can accurately choose or view appointment times.
+   - Design Choices: Clearly presented options for selecting time and date during booking or rescheduling enhance usability.
+
+ 8. Rating System:
+   - Purpose: Allows users to rate their experience with a doctor.
+   - Design Choices: Simple rating options are integrated into the doctor profile, providing users with a quick way to give feedback.
+
+ Flow Summary:
+   - Users start at the Home screen, search for doctors, and proceed to the Booking process.
+   - Appointments can be managed through the Manage Appointments screen, with options to Edit/Reschedule or Cancel as needed.
+   - Throughout, users can view doctor profiles and provide ratings, ensuring they can make informed choices and manage their healthcare efficiently.
+
+This design ensures a user-friendly experience, allowing patients to easily book, manage, and reschedule appointments, aligned with the medical center’s commitment to patient care.
